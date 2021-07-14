@@ -1,1 +1,5 @@
 # Market-Basket-Analysis--Retail-Superstore
+#### https://www.youtube.com/watch?v=DBonyWtuH3g
+- Market basket analysis is a data mining technique used by retailers to increase sales by better understanding customer purchasing patterns. It involves analyzing large data sets, such as purchase history, to reveal product groupings, as well as products that are likely to be purchased together.
+- Market basket analysis can increase sales and customer satisfaction. Using the data to determine which all products are often purchased together, retailers can optimize product placement, offer special deals and create new product bundles to encourage further sales of these combinations. These improvements can generate additional sales for the retailer, while making the shopping experience more productive and valuable for customers. By using market basket analysis, customers may feel a stronger sentiment or brand loyalty toward the company.
+- I have a SuperStore dataset which has around 10k records, performed feature engineering, data cleansing in pandas and drawn insightful visuals and a dashboard in Power Bi.
